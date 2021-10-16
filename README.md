@@ -10,7 +10,5 @@ Skills:  VUE JS / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on Visual studio code as a Front-end developer 
 - 🌱 I’m currently learning React native and web mobile application 
 - 📫 How to reach me: through social media links below 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>] (https://github.com/https://github.com/omnya7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/omnya-jamal-borajy-6577b8184/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/omnya_jamal/)  
-
+- LinkedIn : www.linkedin.com/in/omnya-jamal-borajy-6577b8184
+- Twitter : https://twitter.com/omnya_jamal/
